@@ -61,3 +61,6 @@ By completing this project, you will:
 * Create a basic sales chart using matplotlib
 
 ---
+
+## 📬 Connect with me on LinkedIn:
+- <a href="https://www.linkedin.com/in/geetha-venkatesan2205/">👉 LinkedIn Profile</a>
