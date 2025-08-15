@@ -1,4 +1,4 @@
-# 📊 Sales Summary with SQLite and Python
+# 📊 Sales Summary from a SQLite Database using Python
 
 Get Basic Sales Summary from a Tiny SQLite Database using Python.
 **Objective:** Use SQL inside Python to pull simple sales info (like total quantity sold, total revenue), and display it using basic print statements and a simple bar chart.
